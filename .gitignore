@@ -101,5 +101,4 @@ ENV/
 .mypy_cache/
 
 # SQLite database
-
 db.sqlite3
